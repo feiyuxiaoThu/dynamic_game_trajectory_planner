@@ -20,7 +20,9 @@ cd dynamic_game_trajectory_planner
 
 ### 2. Install Python Dependencies
 Install all the required dependencies listed in the requirements.txt, for the python file used for plotting:
+
 **Note**: the suitable python version is *python==3.10.12*
+
 ```bash
 pip install -r requirements.txt
 ```
